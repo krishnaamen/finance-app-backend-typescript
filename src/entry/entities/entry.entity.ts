@@ -7,7 +7,7 @@ export class Entry {
 
   @Column()
   amount: number;
-
+  // adding category
   @Column()
   category: string;
 
